@@ -1,0 +1,74 @@
+---
+title: "Shandian & Xiao1"
+format:
+  html:
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    include-after-body: 
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+          <script>
+            document.addEventListener("DOMContentLoaded", function () {
+              const lightbox = GLightbox({ selector: '.glightbox' });
+            });
+          </script>
+
+---
+
+
+# 🌟 Welcome to Our Love Diary
+
+Hi there!  
+This is a little space where **闪电 (Shandian)** ⚡ and **小1 (Xiao1)** 🌸 record our daily heartbeats, memories, and moments that make us smile.
+
+---
+
+## 🥰 About Us
+<div style="display: flex; justify-content: space-around; margin-bottom: 2em;">
+  <figure>
+    <img src="images/Sky/SkySpark.jpg" width="180px" style="border-radius: 50%;" />
+    <figcaption style="text-align: center;">⚡ Shandian</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/Sky/Sky1.jpg" width="180px" style="border-radius: 50%;" />
+    <figcaption style="text-align: center;">🌸 Xiao1</figcaption>
+  </figure>
+</div>
+
+---
+
+## 📸 Our Memories
+
+### 🎶  *Our First Concert Together – Luhan in Xi’an · 2025.7.13*
+第一次和闪电⚡一起看演唱会！喜欢鹿晗很久啦，这次居然真的抢到票了！🥳🥳🥳 
+“孤单星球，转了多久，才遇到了你陪伴在我左右”
+
+<div class="image-row">
+  <a href="images/Xi-an/luhan1.jpg" class="glightbox" data-gallery="memories">
+    <img src="images/Xi-an/luhan1.jpg" alt="Luhan 1" class="horizon" />
+  </a>
+  <a href="images/Xi-an/luhan2.jpg" class="glightbox" data-gallery="memories">
+    <img src="images/Xi-an/luhan2.jpg" alt="Luhan 2" class="vertical" />
+  </a>
+</div>
+
+<div class="image-row">
+  <a href="images/Xi-an/luhan4.jpg" class="glightbox" data-gallery="memories">
+    <img src="images/Xi-an/luhan4.jpg" alt="Luhan 4" class="horizon" />
+  </a>
+  <a href="images/Xi-an/luhan3.jpg" class="glightbox" data-gallery="memories">
+    <img src="images/Xi-an/luhan3.jpg" alt="Luhan 3" class="vertical" />
+  </a>
+</div>
+---
+
+## 💌 Love Notes
+
+---
+
+## 🚀 Stay Tuned
+
+We’ll keep adding our favorite memories, travel stories, and cute little things we discover about each other.  
+Thanks for visiting 💞

@@ -1,1 +1,42 @@
-/* css styles */
+.glightbox-container .gslide-media {
+  max-width: 40% !important;
+  margin: 0 auto;
+}
+.image-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 15px auto 24px auto; 
+  flex-wrap: nowrap;
+}
+
+
+.image-row a img {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  width: 100%;
+  height: auto;
+}
+
+.image-row a:hover img {
+  transform: scale(1.02);
+}
+
+.horizon {
+  width: 50vw;   
+  max-width: 480px;
+}
+
+.vertical {
+  width: 25vw;
+  max-width: 270px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Georgia', serif;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
