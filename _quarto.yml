@@ -9,6 +9,9 @@ website:
         text: Home
       - about.qmd
   search: true
+  comments: 
+    utterances:
+      repo: zinuo-H/zinuo-H.github.io
 
 format:
   html:

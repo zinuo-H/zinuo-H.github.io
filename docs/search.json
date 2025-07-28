@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shandian & Xiao1",
@@ -14,8 +21,8 @@
     "text": "⚡ Shandian\n\n\n\n\n\n🌸 Xiao1"
   },
   {
-    "objectID": "index.html#our-memories",
-    "href": "index.html#our-memories",
+    "objectID": "index.html#our-memories1",
+    "href": "index.html#our-memories1",
     "title": "Shandian & Xiao1",
     "section": "",
     "text": "第一次和闪电⚡一起看演唱会！喜欢鹿晗很久啦，这次居然真的抢到票了！🥳🥳🥳 “孤单星球，转了多久，才遇到了你陪伴在我左右”"
@@ -26,12 +33,5 @@
     "title": "Shandian & Xiao1",
     "section": "",
     "text": "We’ll keep adding our favorite memories, travel stories, and cute little things we discover about each other.\nThanks for visiting 💞"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
