@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - privilege-card/**
 website:
   title: "OneSpark"
   navbar:
@@ -8,6 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: privilege-card/index.html
+        text: Privilege card
   search: true
   comments: 
     utterances:
